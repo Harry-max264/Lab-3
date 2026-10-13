@@ -8,6 +8,5 @@
 - Scaffold: MASY1800_ET_Agent_Scaffold_v1_0
 - Validation: frozen core intact; three intake contracts, four response contracts, stable/context-sensitive saved-output checks and malformed-output rejection passed.
 - Run again: `python tests/check_submission.py`
-- This documentation-only follow-up records the implementation commit after GitHub assigned its SHA. The implementation commit contains all agent files and test evidence; this record does not change them.
+- The implementation commit identifies the tested agent and outputs. Subsequent documentation-only commits finalize submission wording; the current main branch includes these revisions.
 - Runtime: interactive ChatGPT/Codex; no API key or independent model evaluator used.
-- Student review of the AI-assisted analytical judgment remains necessary before Brightspace submission.
