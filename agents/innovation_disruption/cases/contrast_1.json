@@ -1,0 +1,14 @@
+{
+  "emerging_technology": "Large-language-model-based generative AI for text",
+  "intended_application": "Proposed self-service AI content subscription with human editorial review, replacing some per-article delivery; not launched.",
+  "organization": "Hypothetical commodity marketing-copy agency; assume 70% of revenue comes from routine per-article copy sold through account managers.",
+  "industry_sector": "Business-to-business marketing content services",
+  "business_need": "Respond to possible client self-production while creating recurring revenue.",
+  "users_stakeholders": "Clients, writers, editors, account managers, owners.",
+  "adoption_posture": "Aggressive experimentation; no evidence of client migration yet.",
+  "capabilities_constraints": "Editing expertise and client relationships; no validated subscription willingness-to-pay, margin, churn or usage-cost data.",
+  "risk_consequence_context": "Cannibalization, unreliable copy and loss of differentiation; economic viability uncertain.",
+  "management_question": "Would the proposed service materially disrupt the current value-capture model?",
+  "time_horizon": "Six-month offer experiment; twelve-month business-model outlook.",
+  "additional_context": "Evidence packet (verified 2026-10-13 UTC). S1: OECD/Eurostat, Oslo Manual 2018, Chapter 3, https://www.oecd.org/en/publications/oslo-manual-2018_9789264304604-en/full-report/component-9.html : innovation requires implementation and significant difference from previous products/processes. S2: OpenAI, Introducing ChatGPT, 2022-11-30, https://openai.com/index/chatgpt/ : documents public conversational AI deployment and warns of plausible incorrect answers; vendor historical source, not independent effectiveness proof. S3: Noy and Zhang, Science 381, 187-192 (2023), DOI 10.1126/science.adh2586, https://www.science.org/doi/10.1126/science.adh2586 : randomized professional writing experiment reports reduced task time and improved rated quality. Publisher search abstract verified; full publisher page unavailable. Supports task-level potential, not agency revenue or customer switching. All organizations and organizational facts below are hypothetical test assumptions; no company deployment or measured financial outcome is asserted."
+}

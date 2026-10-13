@@ -1,0 +1,14 @@
+{
+  "emerging_technology": "Large-language-model-based generative AI for text",
+  "intended_application": "Employee-facing assistant that retrieves approved procurement guidance and drafts routine internal explanations; human review; proposal not deployed.",
+  "organization": "Hypothetical industrial manufacturer; sells physical equipment and maintenance services, not procurement advice.",
+  "industry_sector": "Industrial manufacturing",
+  "business_need": "Reduce repetitive policy lookup and drafting without changing supplier approval authority.",
+  "users_stakeholders": "Procurement employees, process owners, IT, suppliers indirectly affected.",
+  "adoption_posture": "Conservative: reversible pilot before any workflow change.",
+  "capabilities_constraints": "Approved policy corpus available; no local performance data; limited integration budget; no autonomous purchasing or payment.",
+  "risk_consequence_context": "Incorrect guidance could delay purchases or misstate approval rules; human policy owner retains authority.",
+  "management_question": "How innovative is the proposal, and how might it reshape value?",
+  "time_horizon": "Three-month pilot; twelve-month business-model outlook.",
+  "additional_context": "Evidence packet (verified 2026-10-13 UTC). S1: OECD/Eurostat, Oslo Manual 2018, Chapter 3, https://www.oecd.org/en/publications/oslo-manual-2018_9789264304604-en/full-report/component-9.html : innovation requires implementation and significant difference from previous products/processes. S2: OpenAI, Introducing ChatGPT, 2022-11-30, https://openai.com/index/chatgpt/ : documents public conversational AI deployment and warns of plausible incorrect answers; vendor historical source, not independent effectiveness proof. S3: Noy and Zhang, Science 381, 187-192 (2023), DOI 10.1126/science.adh2586, https://www.science.org/doi/10.1126/science.adh2586 : randomized professional writing experiment reports reduced task time and improved rated quality. Publisher search abstract verified; full publisher page unavailable. Supports task-level potential, not agency revenue or customer switching. All organizations and organizational facts below are hypothetical test assumptions; no company deployment or measured financial outcome is asserted."
+}

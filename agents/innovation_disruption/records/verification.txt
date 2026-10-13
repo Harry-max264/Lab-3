@@ -1,0 +1,14 @@
+FROZEN CORE INTACT
+Contract PASS: agents/innovation_disruption/cases/contrast_1.json
+Contract PASS: agents/innovation_disruption/cases/contrast_2.json
+Contract PASS: agents/innovation_disruption/cases/primary.json
+VALIDATION PASSED
+Contract PASS: agents/innovation_disruption/responses/contrast_1_response.json
+VALIDATION PASSED
+Contract PASS: agents/innovation_disruption/responses/contrast_2_response.json
+VALIDATION PASSED
+Contract PASS: agents/innovation_disruption/responses/primary_response.json
+VALIDATION PASSED
+Contract PASS: agents/innovation_disruption/responses/primary_v0.1.json
+Stable/general and changed/contextual findings PASS; abstention PASS; malformed-output rejection PASS.
+Checks validate saved artifact structure and consistency, not forecasts or independent LLM reliability.
