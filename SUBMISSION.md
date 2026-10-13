@@ -31,4 +31,4 @@ The same generative-text technology can support a proposed incremental procureme
 | AI use and verification | Agent Record and source register |
 | Repository / branch / commit | VERSION_RECORD.md |
 
-The original scaffold README and files remain unchanged. Start with this file for the completed assignment. The course explicitly allows the Markdown Agent Record equivalent. Organizations are hypothetical test fixtures. The judgment is AI-assisted and requires the student's own review before course submission; no student approval or Brightspace submission is claimed.
+The original scaffold README and files remain unchanged. Start with this file for the completed assignment. The course explicitly allows the Markdown Agent Record equivalent. Organizations are hypothetical test fixtures. AI assistance and verification limits are documented in the Agent Record.
